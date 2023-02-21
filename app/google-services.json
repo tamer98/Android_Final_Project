@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590619026987",
+    "project_id": "atcheck-c36b1",
+    "storage_bucket": "atcheck-c36b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590619026987:android:0f46b3eee88cb85db26c6e",
+        "android_client_info": {
+          "package_name": "com.example.AtCheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590619026987-mde5jkga15ofbk8eme9b3pfug5bc39og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe4szJxNbSLSt2wFt7a2Xv6Wp1d8yJsrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590619026987-mde5jkga15ofbk8eme9b3pfug5bc39og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
